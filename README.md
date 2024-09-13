@@ -17,5 +17,5 @@ This project is a Streamlit app that highlights important parts of contracts and
 
 ## Technology Used
 
-- PyMuPDF: For PDF text extraction.
-- Transformers (Huggingface): For Named Entity Recognition (NER).
+- **PyMuPDF:** For PDF text extraction.
+- **Transformers (Huggingface):** For Named Entity Recognition (NER).
