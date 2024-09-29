@@ -19,3 +19,7 @@ This project is a Streamlit app that highlights important parts of contracts and
 
 - **PyMuPDF:** For PDF text extraction.
 - **Transformers (Huggingface):** For Named Entity Recognition (NER).
+- **Streamlit:** For the interactive web application.
+- **Difflib:** For comparing contract texts.
+
+
