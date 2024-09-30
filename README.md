@@ -23,3 +23,9 @@ This project is a Streamlit app that highlights important parts of contracts and
 - **Difflib:** For comparing contract texts.
 
 
+## Installation
+### Prerequisites
+-Python 3.7 or higher
+-Git
+
+### Steps
