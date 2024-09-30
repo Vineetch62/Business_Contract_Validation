@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+pymupdf
+diff-match-patch
