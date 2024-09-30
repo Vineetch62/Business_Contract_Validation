@@ -59,6 +59,21 @@ This project is a Streamlit app that highlights important parts of contracts and
    ```
 2. Open your web browser and go to `http://localhost:8501` to access the application.
 
+## Project Strucure
+
+```plaintext
+Business-Contract-Validation/
+├── contractapp.py
+├── generate.py
+├── requirements.txt
+├── README.md
+├── contracts/
+│   ├── contract_1.txt
+│   ├── contract_2.txt
+│   ├── contract_3.txt
+│   ├── contract_4.txt
+└── Demonstration
+
 
 
 
