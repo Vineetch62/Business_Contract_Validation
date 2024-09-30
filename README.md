@@ -25,7 +25,7 @@ This project is a Streamlit app that highlights important parts of contracts and
 
 ## Installation
 ### Prerequisites
--Python 3.7 or higher
--Git
+- Python 3.7 or higher
+- Git
 
 ### Steps
