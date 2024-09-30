@@ -29,3 +29,4 @@ This project is a Streamlit app that highlights important parts of contracts and
 - Git
 
 ### Steps
+#### 1.
