@@ -73,10 +73,3 @@ Business-Contract-Validation/
 │   ├── contract_3.txt
 │   ├── contract_4.txt
 └── Demonstration
-
-
-
-
-
-
-
