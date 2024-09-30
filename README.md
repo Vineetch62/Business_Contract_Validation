@@ -41,7 +41,7 @@ This project is a Streamlit app that highlights important parts of contracts and
    python -m venv venv
    .\venv\Scripts\activate
    ```
-   -MacOs
+   - MacOs
    ```bash
    python3 -m venv venv
    source venv/bin/activate
@@ -51,3 +51,17 @@ This project is a Streamlit app that highlights important parts of contracts and
    ```bash
    pip install -r requirements.txt
    ```
+
+## Usage
+1. Run the Streamlit app:
+   ```bash
+      streamlit run contractapp.py
+   ```
+2. Open your web browser and go to `http://localhost:8501` to access the application.
+
+
+
+
+
+
+
