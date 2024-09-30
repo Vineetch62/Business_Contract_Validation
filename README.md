@@ -29,4 +29,8 @@ This project is a Streamlit app that highlights important parts of contracts and
 - Git
 
 ### Steps
-#### 1.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Vineetch62/Business_Contract_Validation.git
+    cd Business-Contract-Validation
+  ```
