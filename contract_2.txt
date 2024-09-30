@@ -1,0 +1,19 @@
+
+    This agreement is made between Initech (hereinafter referred to as 'Party A') and Umbrella Corporation (hereinafter referred to as 'Party B').
+
+    Whereas, Party A is in the business of providing IT services and Party B requires IT services for its operations;
+
+    Now, therefore, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:
+
+    1. Term: The agreement will commence on 2024-02-01 and will continue until 2024-11-01 unless terminated earlier as provided herein.
+    2. Confidentiality: Both parties agree to keep confidential any proprietary information disclosed.
+    3. Termination: This agreement may be terminated by either party upon 60 days' written notice.
+    4. Liability: Neither party shall be liable for any indirect, incidental, or consequential damages.
+    5. Governing Law: This agreement shall be governed by and construed in accordance with the laws of the State of New York.
+
+    In witness whereof, the parties have executed this agreement as of the date first above written.
+
+    Signed,
+    Party A: __________________________
+    Party B: __________________________
+    
