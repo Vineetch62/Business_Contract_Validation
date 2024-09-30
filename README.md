@@ -33,4 +33,21 @@ This project is a Streamlit app that highlights important parts of contracts and
    ```bash
    git clone https://github.com/Vineetch62/Business_Contract_Validation.git
     cd Business-Contract-Validation
-  ```
+   ```
+   
+2. Create a virtual environment and activate it:
+   - Windows
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\activate
+   ```
+   -MacOs
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
