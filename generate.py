@@ -36,4 +36,3 @@ if __name__ == "__main__":
     for i, contract in enumerate(contracts):
         with open(f"contract_{i + 1}.txt", "w") as file:
             file.write(contract)
- print('hello world')
